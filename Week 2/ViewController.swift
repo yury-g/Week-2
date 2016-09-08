@@ -6,6 +6,7 @@
 //  Copyright © 2016 com.yuryg. All rights reserved.
 //
 //  topics: Vars(Int, Float, String), Function Syntax, Operators (+, -, =), Slider, Labels, Buttons, ProgessView
+//
 
 
 import UIKit
